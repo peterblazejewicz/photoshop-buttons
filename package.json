@@ -1,0 +1,26 @@
+{
+  "name": "photoshop-buttons",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Tim's Hettlers buttons code simplified to Sass (LibSass hopefully) and Less",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterblazejewicz/photoshop-buttons.git"
+  },
+  "keywords": [
+    "CSS",
+    "Sass",
+    "Less",
+    "Photoshop"
+  ],
+  "author": "Peter Blazejewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peterblazejewicz/photoshop-buttons/issues"
+  },
+  "homepage": "https://github.com/peterblazejewicz/photoshop-buttons"
+}
