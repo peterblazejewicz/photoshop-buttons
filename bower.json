@@ -1,0 +1,20 @@
+{
+  "name": "photoshop-buttons",
+  "version": "0.0.0",
+  "homepage": "https://github.com/peterblazejewicz/photoshop-buttons",
+  "authors": [
+    "Peter Blazejewicz <peter.blazejewicz@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "normalize.css": "~3.0.2",
+    "normalize.scss": "~3.0.2+normalize.3.0.2"
+  }
+}
