@@ -1,2 +1,2 @@
 # ps-buttons
-Tim's Hettlers buttons code simplified to Sass (LiSass hopefully) and Less
+Tim's Hettler buttons code simplified to Sass (LiSass hopefully) and Less
