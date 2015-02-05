@@ -1,4 +1,18 @@
-@import "../bower_components/normalize.css/normalize.css";
+// Core variables and mixins
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/variables";
+
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins";
+
+// Reset and dependencies
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/normalize";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/print";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/glyphicons";
+
+// Core CSS
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/scaffolding";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/type";
+@import "../bower_components/bootstrap-sass/assets/stylesheets/bootstrap/grid";
+
 
 %button {
   box-sizing: border-box;
