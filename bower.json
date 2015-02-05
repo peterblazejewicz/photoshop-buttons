@@ -16,5 +16,9 @@
   "devDependencies": {
     "normalize.css": "~3.0.2",
     "normalize.scss": "~3.0.2+normalize.3.0.2"
+  },
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "bootstrap-sass": "~3.3.3"
   }
 }
