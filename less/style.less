@@ -1,0 +1,40 @@
+// Core variables and mixins
+@import "../bower_components/bootstrap/less/variables";
+
+@import "../bower_components/bootstrap/less/mixins";
+
+// Reset and dependencies
+@import "../bower_components/bootstrap/less/normalize";
+@import "../bower_components/bootstrap/less/print";
+@import "../bower_components/bootstrap/less/glyphicons";
+
+// Core CSS
+@import "../bower_components/bootstrap/less/scaffolding";
+@import "../bower_components/bootstrap/less/type";
+@import "../bower_components/bootstrap/less/grid";
+
+
+.button {
+  box-sizing: border-box;
+  user-select: none;
+  //disables callout on iOS devices that displays information about the link
+  -webkit-touch-callout: none; 
+  background-clip: padding-box;
+  border: 0;
+  border-radius: 0.2em;
+  cursor: pointer;
+  display: inline-block;
+  font: 15px/2.6 "Platform-Font", sans-serif;
+  letter-spacing: -1px;
+  margin: 0;
+  padding: 0 1em;
+  position: relative;
+  text-align: center;
+  text-decoration: none !important;
+  word-spacing: normal;
+}
+//
+body {
+  color: white;
+  background-color: RebeccaPurple;
+}
